@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "389b3bf9-d606-37f6-9c78-98585d3b0567",
+    "name": "ZonaE03",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d068f0b0-3976-3b0f-af07-6f090348279f",
+    "name": "NarutoXyzSUN",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
